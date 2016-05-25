@@ -18,7 +18,7 @@ package org.greenrobot.eventbus;
 
 /**
  * Posts events in background.
- * 
+ * 在后台提交事件
  * @author Markus
  */
 class AsyncPoster implements Runnable {
